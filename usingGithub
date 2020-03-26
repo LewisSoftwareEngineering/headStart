@@ -1,0 +1,11 @@
+
+Adding the repository to your laptop
+
+
+git clone < https link or ssh link>
+
+
+If you using ssh , go into the .ssh folder , copy the id_rasa.pub file and add it on the git page - deploy keys
+
+
+
